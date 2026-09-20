@@ -1,0 +1,5 @@
+# Скопируйте в local.properties и подставьте токен ТЕСТОВОГО аккаунта.
+# Файл local.properties добавлен в .gitignore и не попадёт в репозиторий.
+yandexDiskToken=y0__put_your_test_account_token_here
+# необязательно:
+# yandexDiskBaseUrl=https://cloud-api.yandex.net
