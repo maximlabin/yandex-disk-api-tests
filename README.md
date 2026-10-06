@@ -59,6 +59,11 @@ HTML-отчёт JUnit: `build/reports/tests/test/index.html`.
 
 ### Allure-отчёт
 
+🔗 **Актуальный отчёт последнего прогона:** https://maximlabin.github.io/yandex-disk-api-tests/
+(публикуется на GitHub Pages автоматически при каждом push в `main`).
+
+Локально:
+
 ```bash
 ./gradlew test
 allure serve build/allure-results     # требуется Allure CLI: brew install allure
