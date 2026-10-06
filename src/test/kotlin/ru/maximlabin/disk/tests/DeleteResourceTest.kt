@@ -22,7 +22,7 @@ class DeleteResourceTest : BaseDiskTest() {
         api.awaitOperation(resp)
 
         assertThat(resp.code).isIn(202, 204)
-        assertThat(api.getResource(file).code).isEqualTo(404)
+        assertThat(awaitResourceCode(file, 404)).isEqualTo(404)
     }
 
     @Test
@@ -34,7 +34,7 @@ class DeleteResourceTest : BaseDiskTest() {
         api.awaitOperation(resp)
 
         assertThat(resp.code).isIn(202, 204)
-        assertThat(api.getResource(file).code).isEqualTo(404)
+        assertThat(awaitResourceCode(file, 404)).isEqualTo(404)
     }
 
     @Test
@@ -46,7 +46,7 @@ class DeleteResourceTest : BaseDiskTest() {
         val resp = api.deleteResource(dir, permanently = true)
         api.awaitOperation(resp)
 
-        assertThat(api.getResource(dir).code).isEqualTo(404)
+        assertThat(awaitResourceCode(dir, 404)).isEqualTo(404)
     }
 
     @Test

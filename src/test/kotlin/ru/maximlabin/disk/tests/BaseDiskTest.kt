@@ -36,4 +36,26 @@ abstract class BaseDiskTest {
 
     /** Путь внутри рабочей папки. */
     protected fun path(name: String): String = "$workDir/$name"
+
+    /**
+     * Опрашивает ресурс, пока его код ответа не станет [expected], и возвращает его.
+     * Нужен из-за eventual consistency: после асинхронных операций (copy/move/delete)
+     * операция уже в статусе success, но ресурс ещё секунду-другую может отдавать
+     * прежний код. Если за отведённое время код не совпал — возвращает последний,
+     * и ассерт в тесте честно покажет фактическое значение.
+     */
+    protected fun awaitResourceCode(
+        path: String,
+        expected: Int,
+        attempts: Int = 10,
+        delayMs: Long = 500,
+    ): Int {
+        var last = -1
+        repeat(attempts) {
+            last = api.getResource(path).code
+            if (last == expected) return last
+            Thread.sleep(delayMs)
+        }
+        return last
+    }
 }

@@ -26,6 +26,7 @@ class CopyMovePostTest : BaseDiskTest() {
 
         assertThat(resp.code).isIn(201, 202)
         assertThat(api.getResource(src).code).isEqualTo(200)
+        assertThat(awaitResourceCode(dst, 200)).isEqualTo(200)
         assertThat(api.getResource(dst).to<Resource>().md5).isEqualTo(TestData.md5(content))
     }
 
@@ -39,7 +40,7 @@ class CopyMovePostTest : BaseDiskTest() {
         val resp = api.copy(srcDir, dstDir)
         api.awaitOperation(resp)
 
-        assertThat(api.getResource("$dstDir/inner.bin").code).isEqualTo(200)
+        assertThat(awaitResourceCode("$dstDir/inner.bin", 200)).isEqualTo(200)
     }
 
     @Test
@@ -52,8 +53,8 @@ class CopyMovePostTest : BaseDiskTest() {
         api.awaitOperation(resp)
 
         assertThat(resp.code).isIn(201, 202)
-        assertThat(api.getResource(src).code).isEqualTo(404)
-        assertThat(api.getResource(dst).code).isEqualTo(200)
+        assertThat(awaitResourceCode(src, 404)).isEqualTo(404)
+        assertThat(awaitResourceCode(dst, 200)).isEqualTo(200)
     }
 
     @Test
