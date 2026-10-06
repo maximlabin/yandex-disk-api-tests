@@ -1,0 +1,4 @@
+PUT https://uploader36sas.disk.yandex.net/upload-target/20261006T193104.904.utd.f19b2q7vb8u9goruu7jswsxed-k36sas.1169416
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

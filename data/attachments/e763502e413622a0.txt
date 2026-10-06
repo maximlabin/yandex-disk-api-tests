@@ -1,0 +1,3 @@
+HTTP 401 UNAUTHORIZED
+
+{"error":"UnauthorizedError","description":"Unauthorized","message":"Не авторизован."}

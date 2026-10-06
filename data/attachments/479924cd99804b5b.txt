@@ -1,0 +1,4 @@
+PUT https://uploader994vla.disk.yandex.net/upload-target/20261006T193017.501.utd.8pbnaeuoxz0asaottciunhr03-k994vla.1595562
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

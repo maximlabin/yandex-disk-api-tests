@@ -1,0 +1,2 @@
+GET https://cloud-api.yandex.net/v1/disk?fields=total_space
+Authorization: OAuth ****

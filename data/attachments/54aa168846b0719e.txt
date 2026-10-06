@@ -1,0 +1,2 @@
+GET https://cloud-api.yandex.net/v1/disk/resources/upload?path=disk%3A%2Fautotests%2Frun_20261006_19_298422%2Fmeta.bin&overwrite=false
+Authorization: OAuth ****

@@ -1,0 +1,3 @@
+HTTP 400 BAD REQUEST
+
+{"error":"FieldValidationError","description":"Error validating field \"path\": This field is required.","message":"Ошибка проверки поля \"path\": Это поле является обязательным."}

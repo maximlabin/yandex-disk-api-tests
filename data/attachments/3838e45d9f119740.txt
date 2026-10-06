@@ -1,0 +1,4 @@
+PUT https://uploader28vla.disk.yandex.net/upload-target/20261006T193112.200.utd.2t59ipkit3msqj1m5yozqrt7x-k28vla.1566209
+Authorization: OAuth ****
+
+<binary body, 128 bytes>
