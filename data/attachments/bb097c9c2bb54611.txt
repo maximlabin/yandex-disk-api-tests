@@ -1,2 +1,0 @@
-GET https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fautotests%2Frun_20261006_6_907626%2Fmove-dst.bin
-Authorization: OAuth ****

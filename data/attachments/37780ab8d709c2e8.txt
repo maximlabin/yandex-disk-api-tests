@@ -1,4 +1,0 @@
-PUT https://uploader37klg.disk.yandex.net/upload-target/20261006T193026.854.utd.e675f1f7b2psgrmq36mqsze2i-k37klg.1444625
-Authorization: OAuth ****
-
-<binary body, 256 bytes>

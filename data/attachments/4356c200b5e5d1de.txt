@@ -1,0 +1,3 @@
+POST https://cloud-api.yandex.net/v1/disk/resources/move?from=disk%3A%2Fautotests%2Frun_20261006_4_313664%2Fa&path=disk%3A%2Fautotests%2Frun_20261006_4_313664%2Fb&overwrite=false
+
+<binary body, 0 bytes>
