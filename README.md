@@ -1,6 +1,7 @@
 # Автотесты REST API Яндекс.Диска
 
 [![API tests](https://github.com/maximlabin/yandex-disk-api-tests/actions/workflows/tests.yml/badge.svg)](https://github.com/maximlabin/yandex-disk-api-tests/actions/workflows/tests.yml)
+[![Allure report](https://img.shields.io/badge/Allure-report-6E4AA4?logo=qameta&logoColor=white)](https://maximlabin.github.io/yandex-disk-api-tests/)
 
 Проект автотестов для [REST API Яндекс.Диска](https://yandex.ru/dev/disk/rest/).
 Покрыты методы **GET**, **POST**, **PUT** и **DELETE** — позитивные и негативные сценарии.
