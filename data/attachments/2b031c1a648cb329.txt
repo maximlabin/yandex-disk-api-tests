@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader10sas.disk.yandex.net:443/upload-target/20261006T193855.528.utd.dq997nq7h5zrzggiinap7luu5-k10sas.1120344","templated":false,"operation_id":"9850b8d50f3db5dc6753518b34aba36709756c089f5f5c805c74b3ea95ae66b9"}

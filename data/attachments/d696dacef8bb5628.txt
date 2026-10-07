@@ -1,0 +1,4 @@
+PUT https://uploader74klg.disk.yandex.net/upload-target/20261007T160107.967.utd.cyx3pojo2dwg14lwwb0rabdns-k74klg.1826785
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

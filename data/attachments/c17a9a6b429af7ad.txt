@@ -1,3 +1,0 @@
-HTTP 409 CONFLICT
-
-{"error":"DiskPathDoesntExistsError","description":"Specified path \"disk:/autotests/run_20261006_8_876275/missing-parent/child\" doesn't exists.","message":"Указанного пути \"disk:/autotests/run_20261006_8_876275/missing-parent/child\" не существует."}

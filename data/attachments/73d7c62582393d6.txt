@@ -1,0 +1,1 @@
+GET https://cloud-api.yandex.net/v1/disk/resources/upload?path=disk%3A%2Fautotests%2Frun_20261007_28_185711%2Fnope.bin&overwrite=false

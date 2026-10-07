@@ -1,0 +1,4 @@
+PUT https://uploader844sas.disk.yandex.net/upload-target/20261007T160209.914.utd.1mfejm89sig8haiveo7urngdt-k844sas.1387030
+Authorization: OAuth ****
+
+<binary body, 4096 bytes>

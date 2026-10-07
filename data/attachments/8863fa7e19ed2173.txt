@@ -1,4 +1,0 @@
-PUT https://uploader61sas.disk.yandex.net/upload-target/20261006T193819.727.utd.32uonyo943fonuixc1pu8vokx-k61sas.1108141
-Authorization: OAuth ****
-
-<binary body, 128 bytes>
