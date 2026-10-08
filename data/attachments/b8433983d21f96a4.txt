@@ -1,0 +1,3 @@
+DELETE https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fautotests%2Frun_20261008_13_396320%2Fx&permanently=false
+
+<binary body, 0 bytes>

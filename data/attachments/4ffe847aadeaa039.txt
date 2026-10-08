@@ -1,0 +1,4 @@
+POST https://cloud-api.yandex.net/v1/disk/resources/move?from=disk%3A%2Fautotests%2Frun_20261008_6_923502%2Fmove-src.bin&path=disk%3A%2Fautotests%2Frun_20261008_6_923502%2Fmove-dst.bin&overwrite=false
+Authorization: OAuth ****
+
+<binary body, 0 bytes>

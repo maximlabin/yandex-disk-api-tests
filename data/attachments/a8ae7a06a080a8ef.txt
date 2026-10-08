@@ -1,0 +1,4 @@
+PUT https://uploader919klg.disk.yandex.net/upload-target/20261008T160948.182.utd.ah3by0mvt9255cu60sm6uqpzh-k919klg.2250416
+Authorization: OAuth ****
+
+<binary body, 128 bytes>
