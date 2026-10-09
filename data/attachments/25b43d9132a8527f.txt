@@ -1,0 +1,2 @@
+GET https://cloud-api.yandex.net/v1/disk/resources/download?path=disk%3A%2Fautotests%2Frun_20261009_25_713628%2Froundtrip.bin
+Authorization: OAuth ****

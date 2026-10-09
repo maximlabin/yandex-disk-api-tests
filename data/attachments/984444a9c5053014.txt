@@ -1,0 +1,3 @@
+HTTP 201 CREATED
+
+{"method":"GET","href":"https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fautotests%2Frun_20261009_19_258119","templated":false}

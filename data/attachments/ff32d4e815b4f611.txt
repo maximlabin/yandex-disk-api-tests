@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"GET","href":"https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fautotests%2Frun_20261009_17_743002%2Fshared.bin","templated":false}

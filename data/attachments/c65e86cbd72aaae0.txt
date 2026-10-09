@@ -1,0 +1,4 @@
+POST https://cloud-api.yandex.net/v1/disk/resources/copy?from=disk%3A%2Fautotests%2Frun_20261009_3_721895%2Fghost.bin&path=disk%3A%2Fautotests%2Frun_20261009_3_721895%2Fdest.bin&overwrite=false
+Authorization: OAuth ****
+
+<binary body, 0 bytes>

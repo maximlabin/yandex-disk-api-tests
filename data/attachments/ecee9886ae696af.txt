@@ -1,2 +1,0 @@
-GET https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fautotests%2Frun_20261008_20_698922%2Fno-such-resource
-Authorization: OAuth ****

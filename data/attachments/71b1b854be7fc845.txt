@@ -1,3 +1,0 @@
-HTTP 409 CONFLICT
-
-{"error":"DiskResourceAlreadyExistsError","description":"Resource \"disk:/autotests/run_20261008_27_157221/conflict.bin\" already exists.","message":"Ресурс \"disk:/autotests/run_20261008_27_157221/conflict.bin\" уже существует."}
