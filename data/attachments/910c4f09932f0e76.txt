@@ -1,4 +1,0 @@
-DELETE https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fautotests%2Frun_20261009_12_460209%2Fperma.bin&permanently=true
-Authorization: OAuth ****
-
-<binary body, 0 bytes>

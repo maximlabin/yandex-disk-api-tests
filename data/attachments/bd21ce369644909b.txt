@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader70vla.disk.yandex.net:443/upload-target/20261010T151324.833.utd.3s3mt42zx9vr6gsqzv826nz7h-k70vla.3136039","templated":false,"operation_id":"ab6ed57db075e7c806cb0aaeb864dbfdf29a813288a2a8a7487047e4747eb840"}

@@ -1,0 +1,2 @@
+GET https://cloud-api.yandex.net/v1/disk/resources?path=disk%3A%2Fautotests%2Frun_20261010_17_242898%2Fshared.bin
+Authorization: OAuth ****

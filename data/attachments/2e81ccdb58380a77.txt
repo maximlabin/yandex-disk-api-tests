@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"path":"disk:/autotests/run_20261010_21_703034","type":"dir","name":"run_20261010_21_703034","created":"2026-10-10T12:14:41+00:00","modified":"2026-10-10T12:14:41+00:00","_embedded":{"path":"disk:/autotests/run_20261010_21_703034","limit":20,"offset":0,"sort":"","total":0,"items":[]},"resource_id":"1542234555:02794dd63f73804701bf5df56980487d36a09bef3666a8857268d56cf9381b54","revision":1791634481190002,"comment_ids":{"public_resource":"1542234555:02794dd63f73804701bf5df56980487d36a09bef3666a8857268d56cf9381b54","private_resource":"1542234555:02794dd63f73804701bf5df56980487d36a09bef3666a8857268d56cf9381b54"},"exif":{}}
