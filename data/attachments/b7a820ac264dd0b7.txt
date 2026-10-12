@@ -1,3 +1,0 @@
-HTTP 500 INTERNAL SERVER ERROR
-
-{"error":"InternalServerError","description":"Internal Server Error","message":"Ошибка сервера."}

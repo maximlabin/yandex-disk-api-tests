@@ -1,0 +1,4 @@
+PUT https://uploader57klg.disk.yandex.net/upload-target/20261012T175953.168.utd.bbxmlinhr3w67dinve0j84icx-k57klg.113072
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

@@ -1,0 +1,4 @@
+PUT https://uploader47klg.disk.yandex.net/upload-target/20261012T180043.913.utd.5atqmyuqn2x66p7zuqrpomh4n-k47klg.119909
+Authorization: OAuth ****
+
+<binary body, 128 bytes>
