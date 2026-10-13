@@ -1,0 +1,4 @@
+PUT https://uploader862nohdfm.disk.yandex.net/upload-target/20261013T165816.970.utd.9vy7v614cah814or1scdrmk7j-k862nohdfm.251241
+Authorization: OAuth ****
+
+<binary body, 4096 bytes>

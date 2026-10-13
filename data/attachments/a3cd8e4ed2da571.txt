@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader10gaifej.disk.yandex.net:443/upload-target/20261013T165717.520.utd.7em8h25mle4sd26zt57b6pw5b-k10gaifej.243813","templated":false,"operation_id":"110db5f409f2f17bb72e895a2fd74b1d09ceb57935b1947343752423883d45ca"}
