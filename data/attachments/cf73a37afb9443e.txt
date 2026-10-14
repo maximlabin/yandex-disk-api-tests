@@ -1,4 +1,0 @@
-PUT https://uploader77pcpigh.disk.yandex.net/upload-target/20261013T165458.405.utd.e7tgo26xudyf2gcdm561cf0dz-k77pcpigh.207181
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

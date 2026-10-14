@@ -1,4 +1,0 @@
-PUT https://uploader770bgcaba.disk.yandex.net/upload-target/20261013T165551.672.utd.gu54p0gohu5kg0hw71j4jyx5-k770bgcaba.151210
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

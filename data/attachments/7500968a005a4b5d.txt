@@ -1,0 +1,4 @@
+PUT https://uploader13kkpehn.disk.yandex.net/upload-target/20261014T143638.244.utd.4da8l5c96fygqydeflki4ne4z-k13kkpehn.364006
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

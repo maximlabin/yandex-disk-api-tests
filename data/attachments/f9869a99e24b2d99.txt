@@ -1,0 +1,4 @@
+PUT https://uploader23mnmamp.disk.yandex.net/upload-target/20261014T143556.724.utd.dk2ix8mpsyz1ec9dbg9i4zszw-k23mnmamp.344752
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

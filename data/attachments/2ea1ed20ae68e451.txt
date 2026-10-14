@@ -1,0 +1,4 @@
+PUT https://uploader314afmjoe.disk.yandex.net/upload-target/20261014T143351.505.utd.1tu222pyp35yljs5vbqwn2exb-k314afmjoe.328912
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

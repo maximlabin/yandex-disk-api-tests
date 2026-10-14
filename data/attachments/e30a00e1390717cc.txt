@@ -1,3 +1,0 @@
-HTTP 404 NOT FOUND
-
-{"error":"DiskNotFoundError","description":"Resource not found.","message":"Не удалось найти запрошенный ресурс."}

@@ -1,4 +1,0 @@
-PUT https://uploader67peclad.disk.yandex.net/upload-target/20261013T165744.828.utd.2tf4qb83h765ccf76n5m2hc9s-k67peclad.250175
-Authorization: OAuth ****
-
-<binary body, 2048 bytes>

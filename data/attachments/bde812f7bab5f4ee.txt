@@ -1,4 +1,0 @@
-PUT https://uploader31lpjabo.disk.yandex.net/upload-target/20261013T165702.035.utd.ah37070oz7a7ujjz30w34lt4b-k31lpjabo.258874
-Authorization: OAuth ****
-
-<binary body, 64 bytes>
