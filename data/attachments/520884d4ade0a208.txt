@@ -1,0 +1,4 @@
+PUT https://uploader25jkimlf.disk.yandex.net/upload-target/20261015T141459.870.utd.cep9c1z4cyek48tuzau7c9c24-k25jkimlf.452116
+Authorization: OAuth ****
+
+<binary body, 3000 bytes>

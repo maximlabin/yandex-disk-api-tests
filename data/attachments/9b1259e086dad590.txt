@@ -1,0 +1,4 @@
+PUT https://uploader14hopefj.disk.yandex.net/upload-target/20261015T141159.178.utd.1zldymj3hdw9cmppal7oeuk8m-k14hopefj.448198
+Authorization: OAuth ****
+
+<binary body, 64 bytes>
