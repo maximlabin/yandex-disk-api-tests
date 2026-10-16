@@ -1,4 +1,0 @@
-PUT https://uploader70hfaald.disk.yandex.net/upload-target/20261015T141439.960.utd.995nj72bi9wlgv1e0pv9rwzb2-k70hfaald.398970
-Authorization: OAuth ****
-
-<binary body, 4096 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader34ionccm.disk.yandex.net/upload-target/20261015T141224.692.utd.2wmie2voorc4d3bwhiaxnqj26-k34ionccm.438189
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

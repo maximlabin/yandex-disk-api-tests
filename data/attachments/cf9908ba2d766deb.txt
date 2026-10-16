@@ -1,0 +1,4 @@
+PUT https://cloud-api.yandex.net/v1/disk/resources/publish?path=disk%3A%2Fautotests%2Frun_20261016_17_932082%2Fshared.bin
+Authorization: OAuth ****
+
+<binary body, 0 bytes>

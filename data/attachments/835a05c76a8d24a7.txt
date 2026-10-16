@@ -1,0 +1,4 @@
+PUT https://uploader832achlpl.disk.yandex.net/upload-target/20261016T140724.486.utd.e3zb0t2pyaj08cjqdfugwn8sn-k832achlpl.966600
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>

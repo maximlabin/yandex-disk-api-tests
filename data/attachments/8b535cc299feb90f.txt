@@ -1,4 +1,0 @@
-PUT https://uploader972plogeo.disk.yandex.net/upload-target/20261015T141027.627.utd.dxsh0b5zwysrz36xridgcwd01-k972plogeo.391901
-Authorization: OAuth ****
-
-<binary body, 64 bytes>
