@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader42fipgpb.disk.yandex.net:443/upload-target/20261017T132626.862.utd.498644ac8lho0q0o4j4hseqog-k42fipgpb.1483716","templated":false,"operation_id":"bfa4762e8d3a0d3fdfa2b3fc32ad79f7cdc991ac6d59f222f089850466b471f3"}

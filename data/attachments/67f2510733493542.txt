@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader832achlpl.disk.yandex.net:443/upload-target/20261016T140724.486.utd.e3zb0t2pyaj08cjqdfugwn8sn-k832achlpl.966600","templated":false,"operation_id":"29cb339b78b0b3828ee6281df9b7c79528b53be5fe2d848174485af72fd61437"}

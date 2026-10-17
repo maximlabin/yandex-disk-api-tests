@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader12acgkom.disk.yandex.net:443/upload-target/20261017T132618.211.utd.96hia8cls394wk3b01cl06fwt-k12acgkom.340228","templated":false,"operation_id":"82ac56a5795c26df04b9da107829be5895c5427f270b57eb069738e9b8acc25a"}
