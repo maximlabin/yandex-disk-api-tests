@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader49kadoba.disk.yandex.net:443/upload-target/20261018T134333.023.utd.4jhx9sincplrtz3ac30y7e7dz-k49kadoba.1859406","templated":false,"operation_id":"281114960eec2e68bf8c72e39ffb204ab82d72bb7ba3b3f5dd86b3d477a64c49"}

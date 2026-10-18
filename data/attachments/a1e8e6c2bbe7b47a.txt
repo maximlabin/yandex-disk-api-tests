@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader90epdafi.disk.yandex.net:443/upload-target/20261017T132502.740.utd.at51oegg64qgnb1d36zymrem2-k90epdafi.1411724","templated":false,"operation_id":"c936bae1c861d0273bcbd973e83a7c7f4123d35d0db86d9d7084470765777208"}

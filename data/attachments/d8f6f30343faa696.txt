@@ -1,0 +1,4 @@
+PUT https://uploader317ghlbph.disk.yandex.net/upload-target/20261018T134418.005.utd.9kr3e8jykq46xvzggjjph9pl5-k317ghlbph.1878220
+Authorization: OAuth ****
+
+<binary body, 4096 bytes>

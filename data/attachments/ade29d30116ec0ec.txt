@@ -1,0 +1,4 @@
+PUT https://uploader49kadoba.disk.yandex.net/upload-target/20261018T134333.023.utd.4jhx9sincplrtz3ac30y7e7dz-k49kadoba.1859406
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

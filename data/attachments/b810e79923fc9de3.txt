@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader972plogeo.disk.yandex.net:443/upload-target/20261017T132549.515.utd.8lfawteilinj1h7crg3x1rvvu-k972plogeo.1419086","templated":false,"operation_id":"e07a2c0994e1f6d9b15ca05d93b94d1e8c3f629e051cc36b1cfc1effd29f16d1"}
