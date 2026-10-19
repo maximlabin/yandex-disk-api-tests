@@ -1,4 +1,0 @@
-PUT https://uploader571pnffkg.disk.yandex.net/upload-target/20261018T134434.448.utd.b02p23vyt7famtioakxa6jxv3-k571pnffkg.1865616
-Authorization: OAuth ****
-
-<binary body, 256 bytes>
