@@ -1,4 +1,0 @@
-PUT https://uploader82moolgl.disk.yandex.net/upload-target/20261019T154353.217.utd.7zzhtbdvzsij8k3qtm3c5x9h9-k82moolgl.100019
-Authorization: OAuth ****
-
-<binary body, 4096 bytes>

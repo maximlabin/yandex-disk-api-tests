@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader82moolgl.disk.yandex.net:443/upload-target/20261019T154353.217.utd.7zzhtbdvzsij8k3qtm3c5x9h9-k82moolgl.100019","templated":false,"operation_id":"86b86a3790e273cea99d04734c4e962f291fea5e2cb50df56c885146a9793ef0"}

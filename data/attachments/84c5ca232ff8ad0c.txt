@@ -1,3 +1,0 @@
-HTTP 409 CONFLICT
-
-{"error":"DiskPathPointsToExistentDirectoryError","description":"Specified path \"disk:/autotests/run_20261019_10_160129/dup\" points to existent directory.","message":"По указанному пути \"disk:/autotests/run_20261019_10_160129/dup\" уже существует папка с таким именем."}
