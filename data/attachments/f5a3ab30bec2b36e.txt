@@ -1,0 +1,4 @@
+PUT https://uploader81oakkic.disk.yandex.net/upload-target/20261021T143203.559.utd.9ea0uuxqgsj91d83futgkdpc1-k81oakkic.395963
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>
