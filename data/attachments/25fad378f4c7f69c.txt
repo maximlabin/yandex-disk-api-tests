@@ -1,4 +1,0 @@
-PUT https://uploader94ceimbg.disk.yandex.net/upload-target/20261021T142947.101.utd.c8k7jwofiefmdzqkef5naiu8u-k94ceimbg.392086
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

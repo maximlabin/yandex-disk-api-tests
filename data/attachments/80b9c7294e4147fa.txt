@@ -1,0 +1,4 @@
+PUT https://uploader91fngmbm.disk.yandex.net/upload-target/20261022T143154.968.utd.d2wpiofqusfz992o6r48tw3x1-k91fngmbm.997798
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>

@@ -1,3 +1,0 @@
-HTTP 423 LOCKED
-
-{"error":"DiskResourceLockedError","description":"Resource is locked.","message":"Ресурс заблокирован. Возможно, над ним выполняется другая операция."}
