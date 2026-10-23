@@ -1,4 +1,0 @@
-PUT https://uploader26agjegp.disk.yandex.net/upload-target/20261022T143206.274.utd.4zvyy5voj0fb73zcfp7108rz9-k26agjegp.1032815
-Authorization: OAuth ****
-
-<binary body, 256 bytes>
