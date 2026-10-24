@@ -1,0 +1,4 @@
+PUT https://uploader792cnhdci.disk.yandex.net/upload-target/20261024T133910.056.utd.7rtog7f0u6hnv4rxxycr53pjn-k792cnhdci.2080357
+Authorization: OAuth ****
+
+<binary body, 64 bytes>
