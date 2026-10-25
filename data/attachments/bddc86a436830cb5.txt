@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader17bofibe.disk.yandex.net:443/upload-target/20261024T133952.402.utd.35y4ixnoswvu6oqd5m64ziumb-k17bofibe.2156005","templated":false,"operation_id":"95e1cb06fa829daa7136f97130de8284f8b1c1583d9177bb1a2a49e69d904388"}

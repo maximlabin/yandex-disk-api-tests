@@ -1,4 +1,0 @@
-PUT https://uploader127mfabad.disk.yandex.net/upload-target/20261024T134029.991.utd.7r8x7580o3hcs0y1png8wnlfe-k127mfabad.594458
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader96lldggn.disk.yandex.net/upload-target/20261024T133930.339.utd.aw8ayr1vs5ff41n9m7z620oyl-k96lldggn.2087054
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

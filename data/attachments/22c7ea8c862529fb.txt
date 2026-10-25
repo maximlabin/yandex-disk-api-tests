@@ -1,0 +1,4 @@
+PUT https://uploader62nblpge.disk.yandex.net/upload-target/20261025T140255.480.utd.3iajmif19g4yujfwdcnowqahu-k62nblpge.2514447
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

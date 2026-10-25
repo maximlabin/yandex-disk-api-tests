@@ -1,0 +1,4 @@
+PUT https://uploader99cgehaa.disk.yandex.net/upload-target/20261025T140403.557.utd.335xthlrszkldf7l4ng0l8d9e-k99cgehaa.2499642
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>
