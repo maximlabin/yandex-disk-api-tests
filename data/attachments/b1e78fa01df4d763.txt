@@ -1,0 +1,4 @@
+PUT https://uploader36lcgkna.disk.yandex.net/upload-target/20261026T153634.611.utd.1ai39m2mrwnkeo6xtvnrqc8bu-k36lcgkna.3159341
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader93lmncce.disk.yandex.net/upload-target/20261025T140401.545.utd.dpabtbgdo6905whs9n5ipst6h-k93lmncce.2491407
-Authorization: OAuth ****
-
-<binary body, 512 bytes>

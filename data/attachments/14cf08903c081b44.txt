@@ -1,4 +1,0 @@
-PUT https://uploader98bajgke.disk.yandex.net/upload-target/20261025T140314.332.utd.ae26bvpzq9llmti23d4jgv96y-k98bajgke.2507141
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

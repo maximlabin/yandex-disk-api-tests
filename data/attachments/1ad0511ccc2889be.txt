@@ -1,4 +1,0 @@
-PUT https://uploader68plbcee.disk.yandex.net/upload-target/20261025T140301.100.utd.2l3cxhc9fu2s57yxvgxtmd6bd-k68plbcee.2512610
-Authorization: OAuth ****
-
-<binary body, 64 bytes>
