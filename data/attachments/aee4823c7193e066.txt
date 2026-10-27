@@ -1,4 +1,0 @@
-PUT https://uploader688dgpell.disk.yandex.net/upload-target/20261026T153722.012.utd.56j2zwz9ttlqjw8z88ybswofn-k688dgpell.3133516
-Authorization: OAuth ****
-
-<binary body, 4096 bytes>

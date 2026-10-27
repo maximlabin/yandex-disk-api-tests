@@ -1,0 +1,4 @@
+PUT https://uploader732ogdcei.disk.yandex.net/upload-target/20261027T145414.414.utd.ahs8d8etd8ld3r1xks96o0pef-k732ogdcei.501104
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

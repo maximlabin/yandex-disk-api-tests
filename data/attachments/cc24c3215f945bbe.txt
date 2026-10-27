@@ -1,0 +1,4 @@
+PUT https://uploader43mgedha.disk.yandex.net/upload-target/20261027T145341.712.utd.5q5bln45arvisc8452oij2c81-k43mgedha.517130
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

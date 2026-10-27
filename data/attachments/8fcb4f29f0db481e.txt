@@ -1,0 +1,4 @@
+PUT https://uploader24obliab.disk.yandex.net/upload-target/20261027T145603.413.utd.4nnobirq5gmmkdu51wx6rs1zw-k24obliab.528003
+Authorization: OAuth ****
+
+<binary body, 512 bytes>
