@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader83mfjopa.disk.yandex.net:443/upload-target/20261028T152934.009.utd.37g9cfi93wkku6csbfvjcrjep-k83mfjopa.1129488","templated":false,"operation_id":"cdba5b28acbef878fb4efa05e3ffef7f0702b548c4c3a69d0562d79f10605c6d"}

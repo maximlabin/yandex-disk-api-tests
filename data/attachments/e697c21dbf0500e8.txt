@@ -1,0 +1,4 @@
+PUT https://uploader52ckjano.disk.yandex.net/upload-target/20261028T152854.407.utd.bw2kvy43jvnmr66hs72pl54n6-k52ckjano.1150394
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

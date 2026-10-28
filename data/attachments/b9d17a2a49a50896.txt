@@ -1,4 +1,0 @@
-PUT https://uploader20lopaln.disk.yandex.net/upload-target/20261027T145405.942.utd.bzfka0heo9vefjvl5sxt7cmd6-k20lopaln.526408
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

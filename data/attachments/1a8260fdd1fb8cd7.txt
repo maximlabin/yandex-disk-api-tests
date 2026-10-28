@@ -1,0 +1,4 @@
+PUT https://uploader17bofibe.disk.yandex.net/upload-target/20261028T152926.920.utd.6u26sc0u0recmn3jfevmrvpyw-k17bofibe.1147213
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

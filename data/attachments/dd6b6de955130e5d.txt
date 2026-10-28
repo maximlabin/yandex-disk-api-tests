@@ -1,4 +1,0 @@
-PUT https://uploader27kfopnl.disk.yandex.net/upload-target/20261027T145439.581.utd.9361oxalzizmyyjn344tap1ep-k27kfopnl.529595
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

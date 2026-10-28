@@ -1,0 +1,2 @@
+GET https://downloader.disk.yandex.ru/disk/6343f8af223e15115f837fd1ddc726067ef9f428be114687f909cb7977300f07/6ae2232b/dINOV1JtS0-OoP9V3WGiIa5vPQDoGV0jJtKw8OJRfTjWvGcUPr39xO9D5XS0ULPL-6xdR2b_KaJtCtwcc3QH5Q%3D%3D?uid=1542234555&filename=roundtrip.bin&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1542234555&fsize=3000&hid=35c6d41a22757da368c325156c2029ab&media_type=encoded&tknv=v3&is_direct_zip_experiment=1&etag=ce8eb1ada620b70cf68b3443cad8cd0c
+Authorization: OAuth ****
