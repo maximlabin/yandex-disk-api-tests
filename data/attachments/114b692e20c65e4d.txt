@@ -1,4 +1,0 @@
-PUT https://uploader71imhkag.disk.yandex.net/upload-target/20261028T152835.154.utd.ctelodtcnck5c5vm43zzyt1k2-k71imhkag.1128074
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

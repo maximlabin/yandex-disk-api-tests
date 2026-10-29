@@ -1,0 +1,4 @@
+PUT https://uploader310pecabk.disk.yandex.net/upload-target/20261029T153924.221.utd.8g7wu7l863qdlu5jzincvmkje-k310pecabk.1723826
+Authorization: OAuth ****
+
+<binary body, 256 bytes>
