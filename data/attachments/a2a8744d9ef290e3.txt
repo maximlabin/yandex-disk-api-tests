@@ -1,0 +1,4 @@
+PUT https://cloud-api.yandex.net/v1/disk/resources/publish?path=disk%3A%2Fautotests%2Frun_20261030_16_483452%2Funshare.bin
+Authorization: OAuth ****
+
+<binary body, 0 bytes>

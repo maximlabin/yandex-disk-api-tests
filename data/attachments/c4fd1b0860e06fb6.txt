@@ -1,4 +1,0 @@
-PUT https://uploader30cagigp.disk.yandex.net/upload-target/20261029T153841.641.utd.7evoyej7jr6b6kgmapjsdu1v2-k30cagigp.1710358
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

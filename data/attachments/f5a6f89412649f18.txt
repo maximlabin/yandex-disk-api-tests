@@ -1,0 +1,2 @@
+GET https://cloud-api.yandex.net/v1/disk/operations/951be824ad9e364e11e1977736b8675dc560dec183079d26644fabe5d2bb8c30
+Authorization: OAuth ****

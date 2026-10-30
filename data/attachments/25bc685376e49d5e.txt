@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader33bdkoci.disk.yandex.net:443/upload-target/20261030T153206.922.utd.7q4f0yuj6hul1mpk6xq2wvtwu-k33bdkoci.2231801","templated":false,"operation_id":"95774c91de74d0afdaf61b1bca72a81f616c9bede1daedf4787383efcce0fb73"}

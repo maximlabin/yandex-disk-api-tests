@@ -1,0 +1,4 @@
+PUT https://uploader45llkdik.disk.yandex.net/upload-target/20261030T152958.218.utd.d69u57l5mkh19qx70kujvbr8t-k45llkdik.2243153
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

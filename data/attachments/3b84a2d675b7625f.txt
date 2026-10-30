@@ -1,4 +1,0 @@
-PUT https://uploader33bdkoci.disk.yandex.net/upload-target/20261029T153957.271.utd.8811cirn97hnd0gsmpj18shbl-k33bdkoci.1691390
-Authorization: OAuth ****
-
-<binary body, 64 bytes>
