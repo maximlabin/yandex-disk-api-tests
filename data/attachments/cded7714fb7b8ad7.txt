@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader24obliab.disk.yandex.net:443/upload-target/20261031T145748.435.utd.95lkjiqkx42yaw661qeo6imf-k24obliab.2674988","templated":false,"operation_id":"740c8a779c61938409f5bdc4d41ce30cd75d0c9c9ae97094dba89eb651563cbd"}

@@ -1,0 +1,4 @@
+PUT https://uploader48neecee.disk.yandex.net/upload-target/20261031T145922.244.utd.72oe4mu4lq9zabg9nfvn9plgb-k48neecee.2645348
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

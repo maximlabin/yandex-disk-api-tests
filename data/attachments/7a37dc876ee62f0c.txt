@@ -1,0 +1,3 @@
+HTTP 202 ACCEPTED
+
+{"method":"GET","href":"https://cloud-api.yandex.net/v1/disk/operations/e378387d9480b990212dcc205f4d3e1008ea9b97f3822311759506ef0a33de3a","templated":false}

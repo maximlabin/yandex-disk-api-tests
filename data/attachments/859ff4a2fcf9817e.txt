@@ -1,0 +1,4 @@
+PUT https://uploader677kfodmg.disk.yandex.net/upload-target/20261031T145847.536.utd.4vn2j97655uorrdg9sqybtt47-k677kfodmg.2633178
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

@@ -1,0 +1,4 @@
+PUT https://uploader496njoelk.disk.yandex.net/upload-target/20261031T145858.973.utd.a9hrnznbr1gt8jdeg9ha04h6k-k496njoelk.2644758
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

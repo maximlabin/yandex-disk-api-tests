@@ -1,4 +1,0 @@
-PUT https://uploader10gaifej.disk.yandex.net/upload-target/20261030T153229.176.utd.dt5ja73zmxe11hrjlw26khns0-k10gaifej.2247442
-Authorization: OAuth ****
-
-<binary body, 256 bytes>

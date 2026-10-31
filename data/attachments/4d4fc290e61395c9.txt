@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader60cilflp.disk.yandex.net:443/upload-target/20261031T145913.378.utd.cvfggkjowgstyfclm8ywvbrro-k60cilflp.2655793","templated":false,"operation_id":"bdad67da4e2985c2b1965ac6f7c41314f0dc359fd557d0f62504587f8b1b99e6"}
