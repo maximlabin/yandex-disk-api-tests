@@ -1,0 +1,4 @@
+PUT https://uploader69jljmnp.disk.yandex.net/upload-target/20261101T155851.863.utd.6ucm4o0gmgdkops8rndke31q7-k69jljmnp.3024067
+Authorization: OAuth ****
+
+<binary body, 2048 bytes>

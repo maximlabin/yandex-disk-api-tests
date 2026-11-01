@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader64pnlaog.disk.yandex.net:443/upload-target/20261101T155756.052.utd.asj3i2wfv4yqvj23ris7ys2ku-k64pnlaog.3048669","templated":false,"operation_id":"6b6b965231a1ef0a4fb422ca5061ea4ce7b6087d8030b482b7ffe35ee5e3957f"}
