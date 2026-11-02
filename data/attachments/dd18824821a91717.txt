@@ -1,4 +1,0 @@
-PUT https://uploader64pnlaog.disk.yandex.net/upload-target/20261101T155756.052.utd.asj3i2wfv4yqvj23ris7ys2ku-k64pnlaog.3048669
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

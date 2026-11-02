@@ -1,4 +1,0 @@
-PUT https://uploader19damdkn.disk.yandex.net/upload-target/20261101T155912.128.utd.a8zclb5ln0sla5k4f7mgbwo4z-k19damdkn.669463
-Authorization: OAuth ****
-
-<binary body, 4096 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader746mkdfii.disk.yandex.net/upload-target/20261101T155743.824.utd.arllc9eq3rrwrskbxbf3qp4cc-k746mkdfii.3025500
-Authorization: OAuth ****
-
-<binary body, 64 bytes>
