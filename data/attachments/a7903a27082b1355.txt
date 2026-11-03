@@ -1,4 +1,0 @@
-PUT https://uploader92ppickb.disk.yandex.net/upload-target/20261102T181651.960.utd.5yj9p4x4z5ad7ep82l5dsfrvx-k92ppickb.3605887
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>
