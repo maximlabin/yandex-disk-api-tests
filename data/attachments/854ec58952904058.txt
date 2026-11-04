@@ -1,4 +1,0 @@
-PUT https://uploader74cnknbl.disk.yandex.net/upload-target/20261103T165529.856.utd.5ypw9eifa4bmn1uqlmndikb5r-k74cnknbl.4035124
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

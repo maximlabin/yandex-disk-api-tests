@@ -1,0 +1,4 @@
+PUT https://uploader72flnklm.disk.yandex.net/upload-target/20261104T170535.839.utd.7904gngqep0i8im9z2ue4tmjq-k72flnklm.4749853
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader60cilflp.disk.yandex.net/upload-target/20261103T165422.995.utd.6qw3qo7dl5nr32r49wwacdfv0-k60cilflp.4068062
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

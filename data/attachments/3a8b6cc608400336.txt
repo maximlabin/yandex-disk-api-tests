@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader805ngabag.disk.yandex.net:443/upload-target/20261104T170527.931.utd.21vid57ebdt8ljl8pedorniey-k805ngabag.4741354","templated":false,"operation_id":"d75c86844d9cda70ae88f180c59051630629f87cf2fc7d3e05b6710b5e10aff5"}

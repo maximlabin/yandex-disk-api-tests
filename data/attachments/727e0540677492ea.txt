@@ -1,0 +1,4 @@
+PUT https://uploader57kopjpo.disk.yandex.net/upload-target/20261104T170739.559.utd.pa2xdz1165r15h6z0l0jl2qk-k57kopjpo.2833437
+Authorization: OAuth ****
+
+<binary body, 256 bytes>
