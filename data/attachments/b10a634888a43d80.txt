@@ -1,4 +1,0 @@
-PUT https://uploader183hdamed.disk.yandex.net/upload-target/20261104T170732.637.utd.7hgeseoj1vxsr0bqoo93qrchw-k183hdamed.4765341
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader80jjpepm.disk.yandex.net/upload-target/20261104T170632.561.utd.cle2oclpwxas4s88v4fhnmk56-k80jjpepm.4755767
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

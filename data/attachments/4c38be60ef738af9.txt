@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader78boioog.disk.yandex.net:443/upload-target/20261105T172518.021.utd.ai50xvqe5djgbljygstlpz204-k78boioog.5429128","templated":false,"operation_id":"f07a33967ea6940c3996f8a5fba62ab0da493fb10260551e29d3e026f3e6463d"}

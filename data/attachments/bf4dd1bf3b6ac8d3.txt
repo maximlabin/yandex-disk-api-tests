@@ -1,4 +1,0 @@
-PUT https://uploader805ngabag.disk.yandex.net/upload-target/20261104T170527.931.utd.21vid57ebdt8ljl8pedorniey-k805ngabag.4741354
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

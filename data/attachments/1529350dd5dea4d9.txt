@@ -1,0 +1,4 @@
+PUT https://uploader51knjjnp.disk.yandex.net/upload-target/20261105T172502.486.utd.eh422k5lcgacqdrgx5vaz54si-k51knjjnp.5432571
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

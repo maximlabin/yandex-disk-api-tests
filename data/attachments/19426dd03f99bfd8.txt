@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader770bgcaba.disk.yandex.net:443/upload-target/20261104T170616.769.utd.cylvrypzxzgc6h7lgh20aby36-k770bgcaba.4747566","templated":false,"operation_id":"1b51fc6beba4a40e4d631be33af3ff4d7b2c7b2076a9c3421bbc6b71ae175117"}

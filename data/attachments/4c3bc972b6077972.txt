@@ -1,0 +1,4 @@
+PUT https://uploader28mfpbpp.disk.yandex.net/upload-target/20261105T172712.304.utd.egtvx71cd8k0oeve4dx5boh59-k28mfpbpp.5404777
+Authorization: OAuth ****
+
+<binary body, 4096 bytes>

@@ -1,0 +1,4 @@
+PUT https://uploader173noinjl.disk.yandex.net/upload-target/20261105T172600.494.utd.310emo60gcchw6f53e44qqyzf-k173noinjl.5440255
+Authorization: OAuth ****
+
+<binary body, 64 bytes>
