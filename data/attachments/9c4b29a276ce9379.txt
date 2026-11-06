@@ -1,0 +1,4 @@
+PUT https://uploader462okjcoh.disk.yandex.net/upload-target/20261106T170227.124.utd.tio0thij9ocvs56r03ta78zx-k462okjcoh.46116
+Authorization: OAuth ****
+
+<binary body, 2048 bytes>

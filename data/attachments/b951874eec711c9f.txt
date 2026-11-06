@@ -1,4 +1,0 @@
-PUT https://uploader78boioog.disk.yandex.net/upload-target/20261105T172518.021.utd.ai50xvqe5djgbljygstlpz204-k78boioog.5429128
-Authorization: OAuth ****
-
-<binary body, 256 bytes>

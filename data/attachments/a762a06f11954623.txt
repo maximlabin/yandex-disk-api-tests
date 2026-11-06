@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader11pjcnbl.disk.yandex.net:443/upload-target/20261106T170050.770.utd.5mv0wbvluuhx4mnikz14oda0c-k11pjcnbl.87997","templated":false,"operation_id":"9f977135444f54fb8a8c06eb44ee1f8d0f319fbc6dce64c36375bb1dffd14f6c"}
