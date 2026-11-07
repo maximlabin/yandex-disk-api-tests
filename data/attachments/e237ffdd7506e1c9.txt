@@ -1,4 +1,0 @@
-PUT https://uploader175dlgfcp.disk.yandex.net/upload-target/20261106T170040.188.utd.clstkfv6x058jpb14w732826p-k175dlgfcp.39976
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

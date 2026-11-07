@@ -1,4 +1,0 @@
-PUT https://uploader11pjcnbl.disk.yandex.net/upload-target/20261106T170050.770.utd.5mv0wbvluuhx4mnikz14oda0c-k11pjcnbl.87997
-Authorization: OAuth ****
-
-<binary body, 256 bytes>

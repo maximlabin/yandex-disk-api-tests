@@ -1,0 +1,4 @@
+PUT https://uploader41ngdfbo.disk.yandex.net/upload-target/20261107T154702.380.utd.c5pbdwmro3etnpn568d8i97t8-k41ngdfbo.578785
+Authorization: OAuth ****
+
+<binary body, 512 bytes>
