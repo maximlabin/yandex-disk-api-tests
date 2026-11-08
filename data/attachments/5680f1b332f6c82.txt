@@ -1,0 +1,4 @@
+PUT https://uploader878hcmapo.disk.yandex.net/upload-target/20261108T160316.951.utd.bos3zs7gbwy6f228rok3fgh1m-k878hcmapo.1017104
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

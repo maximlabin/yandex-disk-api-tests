@@ -1,4 +1,0 @@
-PUT https://uploader791jajahn.disk.yandex.net/upload-target/20261107T154442.274.utd.50nl8fjee79at5sy9ponjlfu8-k791jajahn.520842
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

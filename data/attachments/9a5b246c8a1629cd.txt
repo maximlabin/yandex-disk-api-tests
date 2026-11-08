@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader15maklig.disk.yandex.net:443/upload-target/20261108T160224.544.utd.cvbnash6tfjbha642yo1nyn6s-k15maklig.1063862","templated":false,"operation_id":"8a94e228ad47ef090f64d689e67feb6cc72cb48dca26f8299606ef2c6049299e"}

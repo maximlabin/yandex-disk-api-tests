@@ -1,0 +1,4 @@
+PUT https://uploader65dnlamg.disk.yandex.net/upload-target/20261108T160412.484.utd.7gp3wnr6yrrre8nscyoeb9w3-k65dnlamg.1047887
+Authorization: OAuth ****
+
+<binary body, 4096 bytes>

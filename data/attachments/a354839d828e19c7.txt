@@ -1,0 +1,4 @@
+PUT https://uploader67ndjkgc.disk.yandex.net/upload-target/20261108T160233.275.utd.9zbep17l8hu68nqx207y1s2s1-k67ndjkgc.1037253
+Authorization: OAuth ****
+
+<binary body, 256 bytes>
