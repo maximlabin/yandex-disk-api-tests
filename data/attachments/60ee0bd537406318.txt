@@ -1,4 +1,0 @@
-PUT https://uploader705ffdoec.disk.yandex.net/upload-target/20261108T160420.718.utd.615jj2c53beaexdfydrx67d7c-k705ffdoec.1053281
-Authorization: OAuth ****
-
-<binary body, 3000 bytes>

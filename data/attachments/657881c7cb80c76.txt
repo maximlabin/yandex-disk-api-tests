@@ -1,0 +1,4 @@
+PUT https://uploader32bbebcn.disk.yandex.net/upload-target/20261109T184546.818.utd.1mhni4nnpezhcmlc4o4v43ucz-k32bbebcn.1569896
+Authorization: OAuth ****
+
+<binary body, 2048 bytes>

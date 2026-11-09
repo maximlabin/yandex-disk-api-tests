@@ -1,0 +1,4 @@
+PUT https://uploader21lpoolj.disk.yandex.net/upload-target/20261109T184459.612.utd.ey1snaraj8prwhshxuhgh9fzc-k21lpoolj.1561843
+Authorization: OAuth ****
+
+<binary body, 128 bytes>
