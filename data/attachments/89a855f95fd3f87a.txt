@@ -1,0 +1,4 @@
+PUT https://uploader55enacjd.disk.yandex.net/upload-target/20261111T165528.896.utd.3srit66xm9n7njzv0fmmck0oo-k55enacjd.2412612
+Authorization: OAuth ****
+
+<binary body, 4096 bytes>

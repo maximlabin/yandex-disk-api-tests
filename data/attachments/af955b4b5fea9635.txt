@@ -1,4 +1,0 @@
-PUT https://uploader37iekdpf.disk.yandex.net/upload-target/20261110T173958.283.utd.519kaefd5uo1jctaqz6vcpji8-k37iekdpf.1965001
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

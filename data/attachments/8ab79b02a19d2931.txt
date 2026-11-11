@@ -1,4 +1,0 @@
-PUT https://uploader35ddfiec.disk.yandex.net/upload-target/20261110T174056.534.utd.2i7n95d34rw49r38xflg6vd7r-k35ddfiec.369321
-Authorization: OAuth ****
-
-<binary body, 3000 bytes>
