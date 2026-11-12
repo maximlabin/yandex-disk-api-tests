@@ -1,4 +1,0 @@
-PUT https://uploader10jhoaim.disk.yandex.net/upload-target/20261111T165547.086.utd.ahhqb937ozlnx5srsy3fvwv63-k10jhoaim.2433219
-Authorization: OAuth ****
-
-<binary body, 512 bytes>

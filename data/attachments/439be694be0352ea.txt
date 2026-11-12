@@ -1,4 +1,0 @@
-PUT https://uploader891kbncik.disk.yandex.net/upload-target/20261111T165537.501.utd.czmx81awojo2arf7xvh0xqot-k891kbncik.2373681
-Authorization: OAuth ****
-
-<binary body, 3000 bytes>
