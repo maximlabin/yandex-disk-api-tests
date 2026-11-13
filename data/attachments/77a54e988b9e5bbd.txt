@@ -1,4 +1,0 @@
-PUT https://uploader404fapfca.disk.yandex.net/upload-target/20261112T175634.962.utd.270r4kdds9w00ukpaarju87xf-k404fapfca.2864062
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

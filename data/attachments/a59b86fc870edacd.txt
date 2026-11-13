@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"GET","href":"https://downloader.disk.yandex.ru/disk/c01fe482de656d07e8e8b8746b640a74b3ac242bde752bd8920f6816c4bf355f/6af75564/dINOV1JtS0-OoP9V3WGiITQSdBCOc_KNkVH4RblvgEJA6E0hJZvQ7JUqNu7b4qXbOsMXAIe-5RRJhxuQkyrpww%3D%3D?uid=1542234555&filename=roundtrip.bin&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1542234555&fsize=3000&hid=87b04b34c36f4ff51335df5403dff88d&media_type=encoded&tknv=v3&is_direct_zip_experiment=1&etag=334602b7bbcaae744cb8b0a983d42445","templated":false}

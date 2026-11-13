@@ -1,4 +1,0 @@
-PUT https://uploader811mbaeji.disk.yandex.net/upload-target/20261112T175800.462.utd.vrhievfsk3iz4iuhwp5aw8ko-k811mbaeji.2894864
-Authorization: OAuth ****
-
-<binary body, 3000 bytes>

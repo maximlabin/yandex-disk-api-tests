@@ -1,4 +1,0 @@
-PUT https://uploader42fipgpb.disk.yandex.net/upload-target/20261112T175537.682.utd.bbvfzmlxigmuqiwb5w6h169nd-k42fipgpb.2905606
-Authorization: OAuth ****
-
-<binary body, 256 bytes>

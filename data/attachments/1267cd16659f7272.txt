@@ -1,4 +1,0 @@
-PUT https://uploader112kiiidp.disk.yandex.net/upload-target/20261112T175814.712.utd.74ykhqvjzihkfie2xyg4zwsug-k112kiiidp.2918490
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

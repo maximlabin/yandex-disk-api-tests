@@ -1,4 +1,0 @@
-PUT https://uploader48gfjohn.disk.yandex.net/upload-target/20261112T175702.262.utd.563b1e4etzh3yk0k7b3bldbln-k48gfjohn.2878410
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

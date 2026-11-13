@@ -1,4 +1,0 @@
-PUT https://uploader73ihelmk.disk.yandex.net/upload-target/20261112T175711.848.utd.aq3vgu28e45kms0op1mbjqqyu-k73ihelmk.2862678
-Authorization: OAuth ****
-
-<binary body, 128 bytes>
