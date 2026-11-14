@@ -1,0 +1,4 @@
+PUT https://uploader552ciebnf.disk.yandex.net/upload-target/20261114T161714.864.utd.cqltnof1jzs32qdqckeqkqw10-k552ciebnf.685476
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader23jmapdo.disk.yandex.net/upload-target/20261113T172148.471.utd.4740a3xm2bnsrourtcntd6b31-k23jmapdo.359179
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

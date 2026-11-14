@@ -1,4 +1,0 @@
-PUT https://uploader862njcjka.disk.yandex.net/upload-target/20261113T172016.657.utd.1288zolgsgaa7lh5ffv53xpb-k862njcjka.349306
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

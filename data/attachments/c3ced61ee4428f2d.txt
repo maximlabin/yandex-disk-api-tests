@@ -1,0 +1,4 @@
+PUT https://uploader83gflopi.disk.yandex.net/upload-target/20261114T161707.913.utd.4utfqb91psr9v9hkihp9wlj4j-k83gflopi.652869
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

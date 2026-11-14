@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader16cmleoi.disk.yandex.net:443/upload-target/20261114T161805.542.utd.1mcmdges95pt6c8f79mv5p1fn-k16cmleoi.689061","templated":false,"operation_id":"e7ee04f5efeef539786d21d8f5d6d1b88900b3d02e16696ac7de54afdbf3375d"}

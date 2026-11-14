@@ -1,0 +1,4 @@
+PUT https://uploader88iinhnd.disk.yandex.net/upload-target/20261114T161700.837.utd.1c16k13n5jc8ifwx5nxr24x4z-k88iinhnd.643735
+Authorization: OAuth ****
+
+<binary body, 128 bytes>
