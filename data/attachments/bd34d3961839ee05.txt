@@ -1,0 +1,4 @@
+PUT https://uploader55aoiapc.disk.yandex.net/upload-target/20261115T164433.437.utd.5u9p9byqepq78q4nq4t5zlzgx-k55aoiapc.986458
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

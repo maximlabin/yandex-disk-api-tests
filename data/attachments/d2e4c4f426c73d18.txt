@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader383eiholi.disk.yandex.net:443/upload-target/20261115T164628.409.utd.zj0ltysvsq1oewlyrl6q9xol-k383eiholi.964945","templated":false,"operation_id":"262021e4953bfeacbf9513c3a463e4a848f1b9490e3cccd99b37dc6ae7bda8da"}

@@ -1,0 +1,4 @@
+PUT https://uploader52kohnde.disk.yandex.net/upload-target/20261115T164518.165.utd.1n5kep734o10c59eagogf0scl-k52kohnde.957863
+Authorization: OAuth ****
+
+<binary body, 128 bytes>
