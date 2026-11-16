@@ -1,4 +1,0 @@
-PUT https://uploader440hkfonk.disk.yandex.net/upload-target/20261115T164510.986.utd.1az3tbwi5q29yfxlzuvmqujil-k440hkfonk.946242
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

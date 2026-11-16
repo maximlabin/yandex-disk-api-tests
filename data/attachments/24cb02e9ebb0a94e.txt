@@ -1,0 +1,4 @@
+PUT https://uploaderstandalone0194onifgm.disk.yandex.net/upload-target/20261116T182257.824.utd.2hpdj9xk2pq87sqkiyhir69bq-kstandalone0194onifgm.1435209
+Authorization: OAuth ****
+
+<binary body, 3000 bytes>

@@ -1,0 +1,4 @@
+PUT https://uploader84dblkim.disk.yandex.net/upload-target/20261116T182209.653.utd.6dy9dvrph56b8iqdolqhfibzr-k84dblkim.1551340
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

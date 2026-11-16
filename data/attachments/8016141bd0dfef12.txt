@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader417docnoh.disk.yandex.net:443/upload-target/20261116T182135.803.utd.3ms5j7irc28hbgr0fvv4eetjw-k417docnoh.90631","templated":false,"operation_id":"5cf69b67e4b37f2806b6969db39cc20030af65fa35cdece28fa713a8c8ce6fa3"}

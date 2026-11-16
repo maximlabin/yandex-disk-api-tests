@@ -1,4 +1,0 @@
-PUT https://uploader417docnoh.disk.yandex.net/upload-target/20261115T164635.707.utd.98lrsuu3auj1e7qyyd3c8s4zc-k417docnoh.986162
-Authorization: OAuth ****
-
-<binary body, 512 bytes>

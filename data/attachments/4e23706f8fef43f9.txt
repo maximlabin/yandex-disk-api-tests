@@ -1,4 +1,0 @@
-PUT https://uploader225giclll.disk.yandex.net/upload-target/20261115T164427.431.utd.45dj3h8n9gexz8c09d4jmmp6z-k225giclll.984947
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

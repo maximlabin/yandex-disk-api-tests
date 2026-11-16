@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploaderstandalone0194onifgm.disk.yandex.net:443/upload-target/20261116T182257.824.utd.2hpdj9xk2pq87sqkiyhir69bq-kstandalone0194onifgm.1435209","templated":false,"operation_id":"e79e3e25ca6f44eca11f0a43226f49681c9c7a878cf9fd9db750aea33f88117d"}
