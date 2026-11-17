@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader34ionccm.disk.yandex.net:443/upload-target/20261116T182319.563.utd.gvhws0pp3c4as0vhod6cnobb-k34ionccm.1379219","templated":false,"operation_id":"df1226308d3cd71da613c12806c1a0275dc7f0e0ed0e9ee58a2342e0ff50d14f"}

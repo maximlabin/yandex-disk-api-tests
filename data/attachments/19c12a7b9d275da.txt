@@ -1,0 +1,4 @@
+PUT https://uploader231ibbnpp.disk.yandex.net/upload-target/20261117T184735.673.utd.4oypszjei2wn6dnamyhz9fffp-k231ibbnpp.1791822
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

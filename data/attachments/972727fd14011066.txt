@@ -1,4 +1,0 @@
-PUT https://uploader496hecfmi.disk.yandex.net/upload-target/20261116T182123.860.utd.dh2zydnkbdgma3defqheww4do-k496hecfmi.1374580
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

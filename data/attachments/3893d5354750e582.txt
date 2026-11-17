@@ -1,4 +1,0 @@
-PUT https://uploader178pgoome.disk.yandex.net/upload-target/20261116T182310.883.utd.3wxeopb3uicvzddgw93w1k1mz-k178pgoome.1401867
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>
