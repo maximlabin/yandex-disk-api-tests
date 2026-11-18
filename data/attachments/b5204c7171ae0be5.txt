@@ -1,0 +1,4 @@
+PUT https://uploader905chlbdc.disk.yandex.net/upload-target/20261118T182601.951.utd.drwozak0g3lvffpo4c8zpodn7-k905chlbdc.2039070
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader758fhkjdn.disk.yandex.net:443/upload-target/20261117T184716.741.utd.5wpu7ezcdo5zz58ucmmmqonop-k758fhkjdn.1744052","templated":false,"operation_id":"e39dec4df86895f57925cef061f38b3eb403aef0b810bee4d3f85042e59afc7b"}

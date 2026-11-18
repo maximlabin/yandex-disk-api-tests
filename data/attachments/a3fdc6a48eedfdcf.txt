@@ -1,4 +1,0 @@
-PUT https://uploader455akdond.disk.yandex.net/upload-target/20261117T184619.552.utd.1xy1axxm8hchmf5oxkl1nmfoa-k455akdond.1762623
-Authorization: OAuth ****
-
-<binary body, 256 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader41loalcf.disk.yandex.net/upload-target/20261117T184818.238.utd.ctso4v4j98zv5usvpv7kn8g-k41loalcf.1694918
-Authorization: OAuth ****
-
-<binary body, 4096 bytes>

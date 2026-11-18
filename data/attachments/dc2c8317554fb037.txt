@@ -1,0 +1,4 @@
+PUT https://uploader66ifldmg.disk.yandex.net/upload-target/20261118T182544.616.utd.e3oljj78t88unms6j4gsfzgwo-k66ifldmg.2123613
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

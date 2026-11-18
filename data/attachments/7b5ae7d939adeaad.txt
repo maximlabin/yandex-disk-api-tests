@@ -1,0 +1,4 @@
+PUT https://uploader89hocilm.disk.yandex.net/upload-target/20261118T182604.287.utd.139wlrgo42shlsmviamdw90tj-k89hocilm.2088030
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

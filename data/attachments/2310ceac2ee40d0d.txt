@@ -1,4 +1,0 @@
-PUT https://uploader456kpmgme.disk.yandex.net/upload-target/20261117T184536.286.utd.8u46z1dhv98d6ldl53hpjbdg1-k456kpmgme.1775096
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

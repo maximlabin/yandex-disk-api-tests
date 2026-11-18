@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader89hocilm.disk.yandex.net:443/upload-target/20261118T182604.287.utd.139wlrgo42shlsmviamdw90tj-k89hocilm.2088030","templated":false,"operation_id":"3cd0b36f126d6e50cbc73a8192bb0dfbab78274689d035c6afee9e399d4e3fbe"}
