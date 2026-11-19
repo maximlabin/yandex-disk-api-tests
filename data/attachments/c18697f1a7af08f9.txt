@@ -1,0 +1,4 @@
+PUT https://uploader333ljeelm.disk.yandex.net/upload-target/20261119T183252.328.utd.ddaz3pxqad87imf4yobf7cibl-k333ljeelm.43789
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

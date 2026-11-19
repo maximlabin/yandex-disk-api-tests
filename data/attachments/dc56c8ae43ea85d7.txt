@@ -1,4 +1,0 @@
-PUT https://uploader111ikmkab.disk.yandex.net/upload-target/20261118T182531.561.utd.4o5tw7ppxjloqy34oq1kcqyq4-k111ikmkab.2136339
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

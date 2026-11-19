@@ -1,0 +1,4 @@
+PUT https://uploader820chmlpe.disk.yandex.net/upload-target/20261119T183216.691.utd.5a86k9jq3isf60gq1efplp29i-k820chmlpe.19164
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

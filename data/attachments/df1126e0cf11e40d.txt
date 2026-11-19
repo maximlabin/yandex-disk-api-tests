@@ -1,4 +1,0 @@
-PUT https://uploader358onogeb.disk.yandex.net/upload-target/20261118T182820.789.utd.cu6axzvgex86uozzhp5gnxuh4-k358onogeb.2064407
-Authorization: OAuth ****
-
-<binary body, 3000 bytes>

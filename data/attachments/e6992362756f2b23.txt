@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader12hojipo.disk.yandex.net:443/upload-target/20261119T183225.741.utd.4z0dcmmdjg4cax05vnlukzvk5-k12hojipo.50097","templated":false,"operation_id":"7053df4bc2a2b028d3a259fe15725879bc3bb0d6afafb7964e5e1556733e66dc"}

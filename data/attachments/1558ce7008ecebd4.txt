@@ -1,0 +1,4 @@
+PUT https://uploader12hojipo.disk.yandex.net/upload-target/20261119T183225.741.utd.4z0dcmmdjg4cax05vnlukzvk5-k12hojipo.50097
+Authorization: OAuth ****
+
+<binary body, 64 bytes>
