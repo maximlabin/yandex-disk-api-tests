@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader92jadnio.disk.yandex.net:443/upload-target/20261120T181049.381.utd.arid97iy1k82y9fpa7npu4jza-k92jadnio.395567","templated":false,"operation_id":"19f61f29dd008b3271f4039ac9cf2c6b70dcf9666f553f8744d19e32ef4cc3c0"}

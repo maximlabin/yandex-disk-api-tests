@@ -1,0 +1,4 @@
+PUT https://uploader167hahdbc.disk.yandex.net/upload-target/20261120T181032.789.utd.2w3u0a6iwh6bbp3smkfvogqdj-k167hahdbc.422721
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

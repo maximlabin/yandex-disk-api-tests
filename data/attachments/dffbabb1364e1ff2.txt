@@ -1,0 +1,4 @@
+PUT https://uploader88kpnbcl.disk.yandex.net/upload-target/20261120T181156.664.utd.cwkl1wxc9v454ymz8tz3drqvx-k88kpnbcl.449968
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

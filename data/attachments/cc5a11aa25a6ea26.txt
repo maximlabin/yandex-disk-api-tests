@@ -1,0 +1,4 @@
+PUT https://uploader865hejphp.disk.yandex.net/upload-target/20261120T180918.737.utd.8g3qa4pg1cq4s4z9i8uwoz3xm-k865hejphp.388231
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

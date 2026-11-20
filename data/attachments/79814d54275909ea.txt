@@ -1,0 +1,4 @@
+PUT https://uploader92jadnio.disk.yandex.net/upload-target/20261120T181049.381.utd.arid97iy1k82y9fpa7npu4jza-k92jadnio.395567
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader76khhegn.disk.yandex.net/upload-target/20261119T183352.654.utd.ce304ji4n1501wuu2184s5ls7-k76khhegn.19981
-Authorization: OAuth ****
-
-<binary body, 256 bytes>

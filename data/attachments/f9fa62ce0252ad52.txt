@@ -1,4 +1,0 @@
-PUT https://uploader43llcmfm.disk.yandex.net/upload-target/20261119T183242.009.utd.9qzv3r6xubgxgiui0dmzccr2k-k43llcmfm.44961
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

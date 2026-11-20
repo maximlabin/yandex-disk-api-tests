@@ -1,4 +1,0 @@
-PUT https://uploader201hecinl.disk.yandex.net/upload-target/20261119T183102.102.utd.a4kn7edctk54iadmzwoi42au8-k201hecinl.44381
-Authorization: OAuth ****
-
-<binary body, 1024 bytes>

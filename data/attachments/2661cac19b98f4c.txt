@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader681nobiki.disk.yandex.net:443/upload-target/20261120T181125.442.utd.77tk1tgfbil140eonczdwwqjc-k681nobiki.401804","templated":false,"operation_id":"e76921b3cf2c3eaae513fe20bf538447a191731a07e6e298a8c4b0a74069ce3f"}
