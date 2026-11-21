@@ -1,0 +1,4 @@
+PUT https://uploader446hobeaa.disk.yandex.net/upload-target/20261121T172821.332.utd.5qpbqbtesu0ioz0wglwlopjko-k446hobeaa.701518
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

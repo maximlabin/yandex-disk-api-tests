@@ -1,0 +1,4 @@
+PUT https://uploader36cmmaem.disk.yandex.net/upload-target/20261121T172812.010.utd.6a1ynx5tgghxsiua39lionh6g-k36cmmaem.710946
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader83mfjopa.disk.yandex.net/upload-target/20261120T181013.943.utd.ba3dw6cthmy23wubajr89i8u-k83mfjopa.398082
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

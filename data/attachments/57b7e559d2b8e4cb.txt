@@ -1,4 +1,0 @@
-PUT https://uploader325iggnkn.disk.yandex.net/upload-target/20261120T180934.227.utd.def9yfpf6nq37vga89vl29wht-k325iggnkn.401778
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

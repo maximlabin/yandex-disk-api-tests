@@ -1,0 +1,4 @@
+PUT https://uploader772ngeaok.disk.yandex.net/upload-target/20261121T173019.598.utd.31bbb9d1aftvgw8jinmbt7f8b-k772ngeaok.720391
+Authorization: OAuth ****
+
+<binary body, 4096 bytes>
