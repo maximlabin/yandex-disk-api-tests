@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader79fdegne.disk.yandex.net:443/upload-target/20261122T172350.717.utd.6cqxzfkfj1dgmxuetjx8ok0x4-k79fdegne.1020689","templated":false,"operation_id":"77811669682dfcaa24f43800d779b06c4999e75e753273b6bd346bad59d0f8b9"}

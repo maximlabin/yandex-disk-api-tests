@@ -1,0 +1,4 @@
+PUT https://uploader97lcbjlm.disk.yandex.net/upload-target/20261122T172249.852.utd.3d4stu03sdx1yx1lf7x24rrc5-k97lcbjlm.1024354
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

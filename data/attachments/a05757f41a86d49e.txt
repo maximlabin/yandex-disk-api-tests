@@ -1,0 +1,4 @@
+PUT https://uploader66pdbeck.disk.yandex.net/upload-target/20261122T172335.749.utd.claz3vj0p06hx9sdgi6kk4ad3-k66pdbeck.1011722
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

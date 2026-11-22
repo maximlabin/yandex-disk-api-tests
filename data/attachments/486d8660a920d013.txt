@@ -1,0 +1,4 @@
+PUT https://uploader22ccodgj.disk.yandex.net/upload-target/20261122T172410.108.utd.2st7pi1sml67erh8ey8qrwh15-k22ccodgj.1044201
+Authorization: OAuth ****
+
+<binary body, 2048 bytes>
