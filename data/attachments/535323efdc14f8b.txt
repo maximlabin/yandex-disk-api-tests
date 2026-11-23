@@ -1,0 +1,4 @@
+PUT https://uploader32fafmlm.disk.yandex.net/upload-target/20261123T204759.729.utd.a3z6h61b98f87dfke73bz2kgo-k32fafmlm.1703124
+Authorization: OAuth ****
+
+<binary body, 2048 bytes>

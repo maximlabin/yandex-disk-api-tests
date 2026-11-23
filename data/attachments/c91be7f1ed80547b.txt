@@ -1,4 +1,0 @@
-PUT https://uploader99mcdfpi.disk.yandex.net/upload-target/20261122T172326.277.utd.fglfof26pmmcxk45hnq2ru2h-k99mcdfpi.974629
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

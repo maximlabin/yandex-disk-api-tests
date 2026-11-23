@@ -1,4 +1,0 @@
-PUT https://uploader63apfabf.disk.yandex.net/upload-target/20261122T172230.161.utd.7dx9kzkwisu5nrbxyt8a1v3k8-k63apfabf.1039018
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

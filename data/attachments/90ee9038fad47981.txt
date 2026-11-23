@@ -1,0 +1,4 @@
+PUT https://uploader606oafmco.disk.yandex.net/upload-target/20261123T204712.374.utd.d37cz7d0nosb9ya5kx3itt8dk-k606oafmco.1479415
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

@@ -1,0 +1,4 @@
+PUT https://uploader160jdpepi.disk.yandex.net/upload-target/20261123T204739.674.utd.8ap20zyatc79ds8cyk7y0t40b-k160jdpepi.1481575
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

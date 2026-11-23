@@ -1,0 +1,4 @@
+PUT https://uploader580ldbfoc.disk.yandex.net/upload-target/20261123T204851.487.utd.dasjcbpclscz8gr61ag55pk4g-k580ldbfoc.1490823
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader79fdegne.disk.yandex.net/upload-target/20261122T172350.717.utd.6cqxzfkfj1dgmxuetjx8ok0x4-k79fdegne.1020689
-Authorization: OAuth ****
-
-<binary body, 128 bytes>
