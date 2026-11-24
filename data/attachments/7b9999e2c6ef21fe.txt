@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader75afiijn.disk.yandex.net:443/upload-target/20261124T201852.616.utd.3dflj8zztgd0enbthm0hq67ee-k75afiijn.1825180","templated":false,"operation_id":"1061646b2e45505b837eb4396bfe1a2c52013b92b8431a64f8c0239bca171d38"}

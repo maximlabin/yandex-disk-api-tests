@@ -1,4 +1,0 @@
-PUT https://uploader503akngck.disk.yandex.net/upload-target/20261123T204731.695.utd.2oh76m9w8k1m1y89kudlkmd4r-k503akngck.1424301
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

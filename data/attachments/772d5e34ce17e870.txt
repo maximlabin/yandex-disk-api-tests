@@ -1,0 +1,4 @@
+PUT https://uploader342jhlcpa.disk.yandex.net/upload-target/20261124T201904.653.utd.8qxmd9vbhduds3noqod881hg9-k342jhlcpa.1869954
+Authorization: OAuth ****
+
+<binary body, 256 bytes>

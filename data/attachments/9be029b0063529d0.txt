@@ -1,0 +1,4 @@
+PUT https://uploader655jegpom.disk.yandex.net/upload-target/20261124T202128.169.utd.32rlq2l3a0wqtke2bniej647r-k655jegpom.1881773
+Authorization: OAuth ****
+
+<binary body, 512 bytes>

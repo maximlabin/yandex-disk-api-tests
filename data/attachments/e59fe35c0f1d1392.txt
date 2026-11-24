@@ -1,0 +1,4 @@
+PUT https://uploader71pabcpm.disk.yandex.net/upload-target/20261124T201829.382.utd.7hibgjzch51pen84ui9ude1ei-k71pabcpm.1812351
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

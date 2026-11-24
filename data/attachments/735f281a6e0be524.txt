@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader32fafmlm.disk.yandex.net:443/upload-target/20261123T204759.729.utd.a3z6h61b98f87dfke73bz2kgo-k32fafmlm.1703124","templated":false,"operation_id":"1d4dbd515e61ea923a63bc099f74f58b6d902f34f4003cd88ebfe8584f10fe6d"}

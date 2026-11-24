@@ -1,0 +1,4 @@
+PUT https://uploader64pnhcpa.disk.yandex.net/upload-target/20261124T202018.487.utd.dvod4rw439vkkejdgrwxlavwn-k64pnhcpa.2081643
+Authorization: OAuth ****
+
+<binary body, 128 bytes>
