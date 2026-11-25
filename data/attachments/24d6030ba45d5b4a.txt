@@ -1,4 +1,0 @@
-PUT https://uploader75afiijn.disk.yandex.net/upload-target/20261124T201852.616.utd.3dflj8zztgd0enbthm0hq67ee-k75afiijn.1825180
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

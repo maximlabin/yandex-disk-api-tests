@@ -1,0 +1,4 @@
+PUT https://uploader62hfigke.disk.yandex.net/upload-target/20261125T195929.210.utd.bldt46wz3c2qxy95ptfpnboea-k62hfigke.2254661
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>

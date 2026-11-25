@@ -1,0 +1,4 @@
+PUT https://uploader125hdflbd.disk.yandex.net/upload-target/20261125T195942.057.utd.6wwi6jugwg6acrondhhjehz4i-k125hdflbd.2252752
+Authorization: OAuth ****
+
+<binary body, 64 bytes>
