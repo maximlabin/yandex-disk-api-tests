@@ -1,0 +1,4 @@
+PUT https://uploader963kmdijc.disk.yandex.net/upload-target/20261126T194126.159.utd.39igf2opvo531k0058s4n5h6i-k963kmdijc.2542256
+Authorization: OAuth ****
+
+<binary body, 64 bytes>

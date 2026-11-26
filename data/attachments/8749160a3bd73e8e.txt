@@ -1,0 +1,4 @@
+PUT https://uploader27jfoafh.disk.yandex.net/upload-target/20261126T194312.817.utd.7rswtrwq2e2kzkqnigynn3u56-k27jfoafh.2603849
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>

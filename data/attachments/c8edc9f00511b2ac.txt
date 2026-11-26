@@ -1,4 +1,0 @@
-PUT https://uploader383eiholi.disk.yandex.net/upload-target/20261125T200114.871.utd.1csq0xym31xioawhiztp3mmdr-k383eiholi.2139459
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

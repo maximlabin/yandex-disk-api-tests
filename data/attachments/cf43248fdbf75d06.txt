@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader44aakhod.disk.yandex.net:443/upload-target/20261126T194335.022.utd.299eubudrva245y706u8il61x-k44aakhod.2604158","templated":false,"operation_id":"69f457d8bf8a0bf05aeffcac26ab3b0cb54611ac4c02eebfab1132f1d2b65e70"}

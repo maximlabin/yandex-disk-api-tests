@@ -1,4 +1,0 @@
-PUT https://uploader111eagcin.disk.yandex.net/upload-target/20261125T200106.719.utd.5dcifu0qocf9os7k154iuk8ev-k111eagcin.2186675
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

@@ -1,4 +1,0 @@
-PUT https://uploader84knpmeh.disk.yandex.net/upload-target/20261125T195958.988.utd.7zj46g8xi0uv4bl1a3gdxu3ht-k84knpmeh.2261885
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

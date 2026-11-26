@@ -1,0 +1,4 @@
+PUT https://uploader58popccc.disk.yandex.net/upload-target/20261126T194310.500.utd.4mlhhge4j6kp2ky0xvpn12hgx-k58popccc.2568329
+Authorization: OAuth ****
+
+<binary body, 512 bytes>

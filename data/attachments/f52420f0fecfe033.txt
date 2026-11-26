@@ -1,0 +1,4 @@
+PUT https://uploader75lbcinc.disk.yandex.net/upload-target/20261126T194212.398.utd.d72ldu5kuxj8d2werdk2hs5t1-k75lbcinc.2555344
+Authorization: OAuth ****
+
+<binary body, 128 bytes>

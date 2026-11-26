@@ -1,4 +1,0 @@
-PUT https://uploader68kklaii.disk.yandex.net/upload-target/20261125T200058.260.utd.2b5x93ij1rcdu9lis3aogub1d-k68kklaii.2253638
-Authorization: OAuth ****
-
-<binary body, 128 bytes>

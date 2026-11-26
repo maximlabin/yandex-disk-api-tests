@@ -1,0 +1,4 @@
+PUT https://uploader15maklig.disk.yandex.net/upload-target/20261126T193949.316.utd.7ppjhju8c065bwz6kumk7i9zt-k15maklig.2598113
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>
