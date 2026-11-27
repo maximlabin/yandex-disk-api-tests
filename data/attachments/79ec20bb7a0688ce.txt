@@ -1,0 +1,4 @@
+PUT https://uploader22oabiik.disk.yandex.net/upload-target/20261127T192721.176.utd.2jhlus345ru8pe2d5m99dcjcb-k22oabiik.2946087
+Authorization: OAuth ****
+
+<binary body, 2048 bytes>

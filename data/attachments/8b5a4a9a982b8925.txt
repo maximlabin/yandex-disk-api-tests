@@ -1,4 +1,0 @@
-PUT https://uploader16cmleoi.disk.yandex.net/upload-target/20261126T194022.142.utd.1o1v3mzs6nionye75p8c2i5vg-k16cmleoi.2591288
-Authorization: OAuth ****
-
-<binary body, 64 bytes>

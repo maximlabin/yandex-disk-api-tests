@@ -1,0 +1,4 @@
+PUT https://uploader707bogdgm.disk.yandex.net/upload-target/20261127T192535.785.utd.5mnbc6r48r6w822lazzl2hkxu-k707bogdgm.2935090
+Authorization: OAuth ****
+
+<binary body, 1024 bytes>

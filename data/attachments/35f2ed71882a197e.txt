@@ -1,0 +1,4 @@
+PUT https://uploader356fnndpg.disk.yandex.net/upload-target/20261127T192803.187.utd.agj5ydge6lcbjl0zykj47t3nz-k356fnndpg.2954122
+Authorization: OAuth ****
+
+<binary body, 512 bytes>

@@ -1,0 +1,4 @@
+PUT https://uploader25nghlpn.disk.yandex.net/upload-target/20261127T192751.779.utd.45ghn3rut2ae9sanaas4mn2ro-k25nghlpn.2973257
+Authorization: OAuth ****
+
+<binary body, 3000 bytes>

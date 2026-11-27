@@ -1,0 +1,3 @@
+HTTP 200 OK
+
+{"method":"PUT","href":"https://uploader41ngdfbo.disk.yandex.net:443/upload-target/20261127T192655.931.utd.59qff3ielfcunqfgsgv1zg3wb-k41ngdfbo.2943931","templated":false,"operation_id":"3fc52f53b763270d3543737b3de853928e519b52bdeb0638bc985c2fc71edada"}

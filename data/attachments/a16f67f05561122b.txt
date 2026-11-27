@@ -1,3 +1,0 @@
-HTTP 200 OK
-
-{"method":"PUT","href":"https://uploader58popccc.disk.yandex.net:443/upload-target/20261126T194310.500.utd.4mlhhge4j6kp2ky0xvpn12hgx-k58popccc.2568329","templated":false,"operation_id":"e95bff03537cd7b8190472b4cee473acfec216134b3f29094969d3ba14059401"}
